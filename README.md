@@ -1,21 +1,16 @@
-## Hi there 👋
+## Ph.D., Senior Mathematician, Lomonosov Moscow State University
 
+- Scientific interests: Survival Analysis, Data mining, Machine Learning
+- Creator of [survivors](https://github.com/iuliivasilev/dev-survivors) library
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev)](https://git.io/streak-stats)
+![Iulii's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliivasilev&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iuliivasilev)](https://github.com/iuliivasilev/github-profile-trophy)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev)](https://git.io/streak-stats) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iuliivasilev)](https://github.com/iuliivasilev/github-profile-trophy) -->
 
 <!--
-**iuliivasilev/iuliivasilev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Links:
+1. https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#about-your-profile-readme
+2. https://habr.com/ru/articles/649363/
 -->
