@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iuliivasilev)](https://github.com/iuliivasilev/github-profile-trophy)
+
 <!--
 **iuliivasilev/iuliivasilev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
