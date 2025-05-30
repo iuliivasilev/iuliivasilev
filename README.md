@@ -3,9 +3,9 @@
 - Scientific interests: Survival Analysis, Data mining, Machine Learning
 - Creator of [survivors](https://github.com/iuliivasilev/dev-survivors) library
 
-![Iulii's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliivasilev&show_icons=true&theme=dark)
+<!-- ![Iulii's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliivasilev&show_icons=true&theme=dark) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iuliivasilev)](https://github.com/iuliivasilev/github-profile-trophy) -->
 
