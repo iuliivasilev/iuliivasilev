@@ -6,7 +6,7 @@
 <!-- ![Iulii's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliivasilev&show_icons=true&theme=dark) -->
 
 <p align="center">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev&theme=dark)](https://git.io/streak-stats)
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iuliivasilev&theme=dark)](https://git.io/streak-stats)
     ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iuliivasilev&theme=solarized_dark)
 </p>
 
