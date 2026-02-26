@@ -1,7 +1,7 @@
-## Ph.D., Senior Mathematician, Lomonosov Moscow State University
+## Ph.D., Associate Postdoc Researcher, Lomonosov Moscow State University
 
 - Scientific interests: Survival Analysis, Data mining, Machine Learning
-- Creator of [survivors](https://github.com/iuliivasilev/dev-survivors) library (Stay Alive 🌟)
+- Owner of [Survivors](https://github.com/iuliivasilev/dev-survivors) library (Stay Alive 🌟)
 
 <!-- ![Iulii's GitHub stats](https://github-readme-stats.vercel.app/api?username=iuliivasilev&show_icons=true&theme=dark) -->
 
